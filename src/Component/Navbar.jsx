@@ -62,12 +62,7 @@ export default function Navbar() {
               >
                 Contact
               </Link>
-              <Link
-                className="px-6 py-2 hover:bg-gray-600 hover:text-white"
-                to="/about"
-              >
-                About
-              </Link>
+
               <button className="py-2 px-6 border bg-gray-300">Sign In</button>
             </div>
           </>

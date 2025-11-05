@@ -25,13 +25,13 @@ export default function Home() {
       </div>
       {/* Destination */}
       <PopularDestination />
-      {/* Our Services */}
+      {/* Our Services Section */}
       <Services />
-      {/* Client */}
+      {/* Client Section */}
       <Client />
-      {/* Contact Us */}
+      {/* Contact Us Section */}
       <Contact />
-      {/* Footer */}
+      {/* Footer Section */}
       <Footer />
     </>
   );
