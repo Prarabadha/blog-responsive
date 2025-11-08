@@ -1,5 +1,6 @@
 import Client from "../Component/Client";
 import Contact from "../Component/Contact";
+import FeaturesSection from "../Component/Feature";
 import Footer from "../Component/Footer";
 import PopularDestination from "../Component/PopularDestination";
 import Services from "../Component/Services";
@@ -27,6 +28,8 @@ export default function Home() {
       <PopularDestination />
       {/* Our Services Section */}
       <Services />
+      {/* Feature Section */}
+      <FeaturesSection />
       {/* Client Section */}
       <Client />
       {/* Contact Us Section */}
